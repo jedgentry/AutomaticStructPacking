@@ -1,0 +1,7 @@
+typedef struct
+{
+double a;
+int b;
+double c;
+int d;
+};
